@@ -1,0 +1,2382 @@
+body{
+    position: relative;
+width: 1440px;
+height: 5189px;
+
+background: #FFFFFF;
+}
+.Vector{
+/* Vector */
+
+position: absolute;
+width: 35px;
+height: 36.23px;
+left: 150px;
+top: 50px;
+
+}
+.LaslesVPN{
+/* LaslesVPN */
+
+
+position: absolute;
+width: 104px;
+height: 24px;
+left: 195px;
+top: 56.12px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #0B132A;
+}
+.About{
+/* About */
+
+
+position: absolute;
+width: 46px;
+height: 19px;
+left: 456px;
+top: 58.62px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #4F5665;
+}
+.Features{
+/* Features */
+
+
+position: absolute;
+width: 66px;
+height: 19px;
+left: 542px;
+top: 58.62px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #4F5665;
+}
+.Pricing{
+/* Pricing */
+
+
+position: absolute;
+width: 52px;
+height: 19px;
+left: 648px;
+top: 58.62px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #4F5665;
+}
+.Testimonials{
+/* Testimonials */
+
+
+position: absolute;
+width: 93px;
+height: 19px;
+left: 740px;
+top: 58.62px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #4F5665;
+}
+.Help{
+/* Help */
+
+position: absolute;
+width: 34px;
+height: 19px;
+left: 873px;
+top: 58.62px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #4F5665;
+}
+.Button1{
+/* Rectangle 249 */
+
+
+position: absolute;
+width: 150px;
+height: 45px;
+left: 1140px;
+top: 45.62px;
+
+border: 1px solid #F53855;
+box-sizing: border-box;
+background-color: white;
+border-radius: 50px;
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #F53855;
+}
+.Button1:hover{
+    background-color: red;
+    color: white;
+}
+.Illustration1{
+/* Illustration 1 */
+
+
+position: absolute;
+width: 611.24px;
+height: 382.44px;
+left: 745.76px;
+top: 179.11px;
+}
+.Wantanything{
+/* Want anything to be easy with LaslesVPN. */
+
+
+position: absolute;
+width: 555px;
+height: 140px;
+left: 150px;
+top: 206.77px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 70px;
+/* or 140% */
+
+
+color: #0B132A;
+}
+.SignIn{
+/* Sign In */
+
+
+position: absolute;
+width: 53px;
+height: 19px;
+left: 1057px;
+top: 58.62px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #0B132A;
+}
+.Provide{
+/* Provide a network for all your needs with ease and fun using LaslesVPN discover interesting features from us. */
+
+
+position: absolute;
+width: 555px;
+height: 60px;
+left: 150px;
+top: 366.77px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+
+color: #4F5665;
+}
+.Button2{
+/* Rectangle 250 */
+
+
+position: absolute;
+width: 250px;
+height: 60px;
+left: 150px;
+top: 476.77px;
+
+background: #F53838;
+border-radius: 10px;
+font-family: Rubik;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 25px;
+/* identical to box height, or 156% */
+
+color: #FFFFFF;
+}
+.Button2:hover{
+    background-color:white;
+    color: red;
+}
+.user{
+/* Icon/user */
+
+
+position: absolute;
+width: 55px;
+height: 55px;
+left: 241px;
+top: 737.05px;
+}
+.cufra{
+/* 90+ */
+
+
+position: absolute;
+width: 49px;
+height: 30px;
+left: 332.5px;
+top: 732.05px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 30px;
+/* identical to box height, or 120% */
+
+
+color: #0B132A;
+}
+.Users1{
+/* Users */
+
+
+position: absolute;
+width: 53px;
+height: 30px;
+left: 332.5px;
+top: 767.05px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+
+
+color: #4F5665;
+}
+.Icon{
+/* Icon/location */
+
+
+position: absolute;
+width: 55px;
+height: 55px;
+left: 628.5px;
+top: 737.05px;
+}
+.cufra1{
+/* 30+ */
+
+
+position: absolute;
+width: 49px;
+height: 30px;
+left: 720px;
+top: 732.05px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 30px;
+/* identical to box height, or 120% */
+
+
+color: #0B132A;
+}
+.Locations{
+/* Locations */
+
+
+position: absolute;
+width: 91px;
+height: 30px;
+left: 720px;
+top: 767.05px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+
+
+color: #4F5665;
+}
+.server{
+/* Icon/Server */
+
+
+position: absolute;
+width: 55px;
+height: 55px;
+left: 1037px;
+top: 737.05px;
+}
+.cufra2{
+/* 50+ */
+
+
+position: absolute;
+width: 49px;
+height: 30px;
+left: 1128.5px;
+top: 732.05px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 30px;
+/* identical to box height, or 120% */
+
+
+color: #0B132A;
+}
+.Servers{
+/* Servers */
+
+
+position: absolute;
+width: 71px;
+height: 30px;
+left: 1128.5px;
+top: 767.05px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+
+
+color: #4F5665;
+}
+.Illustration2{ 
+/* Illustration 2 */
+
+
+position: absolute;
+width: 508.12px;
+height: 414.71px;
+left: 184.52px;
+top: 960.38px;
+}
+.Vector14{
+/* Vector 14 */
+
+
+position: absolute;
+width: 0px;
+height: 125.57px;
+left: 515.5px;
+top: 701.76px;
+
+border: 2px solid #EEEFF2;
+}
+.Vector15{
+/* Vector 15 */
+
+
+position: absolute;
+width: 0px;
+height: 125.57px;
+left: 945.5px;
+top: 701.76px;
+
+border: 2px solid #EEEFF2;
+}
+.WeProvide{
+/* We Provide Many Features You Can Use */
+
+
+position: absolute;
+width: 383.41px;
+height: 100px;
+left: 862.12px;
+top: 1014.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 50px;
+/* or 143% */
+
+
+color: #0B132A;
+}
+.Youcan{
+/* You can explore the features that we provide with fun and have their own functions each feature. */
+
+
+position: absolute;
+width: 427.88px;
+height: 60px;
+left: 862.12px;
+top: 1134.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+
+color: #4F5665;
+}
+.galocka{
+/* Vector */
+
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 862.12px;
+top: 1217.55px;
+}
+.Powerfull{
+/* Powerfull online protection. */
+
+
+position: absolute;
+height: 30px;
+left: 896.2px;
+top: 1214.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+color: #4F5665;
+}
+.galocka2{
+/* bx:bxs-check-circle */
+
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 862.12px;
+top: 1262.55px;
+}
+.Internet{
+/* Internet without borders. */
+
+
+position: absolute;
+height: 30px;
+left: 896.2px;
+top: 1259.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #4F5665;
+}
+.galocka3{
+/* bx:bxs-check-circle */
+
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 862.12px;
+top: 1307.55px;
+}
+.Supercharged{
+/* Supercharged VPN */
+
+
+position: absolute;
+height: 30px;
+left: 896.2px;
+top: 1304.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #4F5665;
+}
+.galocka4{
+/* bx:bxs-check-circle */
+
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 862.12px;
+top: 1352.55px;
+}
+.Nospecific{
+/* No specific time limits. */
+
+
+position: absolute;
+height: 30px;
+left: 896.2px;
+top: 1349.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #4F5665;
+}
+.Choose{
+/* Choose Your Plan */
+
+
+position: absolute;
+width: 383.41px;
+height: 50px;
+left: 528.3px;
+top: 1586.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 50px;
+/* identical to box height, or 143% */
+
+text-align: center;
+
+color: #0B132A;
+}
+.Text{
+/* Let's choose the package that is best for you and explore it happily and cheerfully. */
+
+
+position: absolute;
+width: 555px;
+height: 60px;
+left: 442.5px;
+top: 1656.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+text-align: center;
+
+color: #4F5665;
+}
+.ramka{
+/* Rectangle 253 */
+
+
+position: absolute;
+width: 330px;
+height: 760px;
+left: 175px;
+top: 1776.55px;
+
+background: #FFFFFF;
+border: 2px solid #DDDDDD;
+box-sizing: border-box;
+border-radius: 10px;
+}
+.korobka{
+/* Illustration/Free */
+
+
+position: absolute;
+width: 144.9px;
+height: 165.37px;
+left: 267.55px;
+top: 1856.18px;
+}
+.freeplan{
+/* Free Plan */
+
+
+position: absolute;
+width: 82px;
+height: 30px;
+left: 299px;
+top: 2051.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+
+text-align: center;
+
+color: #0B132A;
+}
+.check{
+/* jam:check */
+
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 244.96px;
+top: 2114.55px;
+}
+.UnlimitedBandwitch{
+/* Unlimited Bandwitch */
+
+
+position: absolute;
+height: 30px;
+left: 289.13px;
+top: 2114.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #4F5665;
+}
+.check1{
+/* jam:check */
+    
+    
+position: absolute;
+width: 24px;
+height: 24px;
+left: 244.96px;
+top: 2154.55px;
+}
+.EncryptedConnection{
+/* Encrypted Connection */
+
+
+position: absolute;
+height: 30px;
+left: 289.13px;
+top: 2154.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #4F5665;
+}
+.check2{
+/* jam:check */
+    
+    
+position: absolute;
+width: 24px;
+height: 24px;
+left: 244.96px;
+top: 2194.55px;
+}
+.NoTraffic{
+/* No Traffic Logs */
+
+
+position: absolute;
+height: 30px;
+left: 289.13px;
+top: 2194.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #4F5665;
+}
+.check3{
+/* jam:check */
+    
+    
+position: absolute;
+width: 24px;
+height: 24px;
+ left: 244.96px;
+ top: 2234.55px;
+}
+.Workson{
+/* Works on All Devices */
+
+
+position: absolute;
+height: 30px;
+left: 289.13px;
+top: 2231.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #4F5665;
+}
+.Free{
+/* Free */
+
+
+position: absolute;
+width: 54px;
+height: 30px;
+left: 313px;
+top: 2391.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 30px;
+/* identical to box height, or 120% */
+
+text-align: center;
+
+color: #0B132A;
+}
+.Button3{
+/* Rectangle 273 */
+
+background-color: white;
+position: absolute;
+width: 177.88px;
+height: 45px;
+left: 251.06px;
+top: 2441.55px;
+
+border: 2px solid #F53838;
+box-sizing: border-box;
+border-radius: 50px;
+font-family: Rubik;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #F53838;
+}
+.Button3:hover{
+background-color:red;
+color:white;
+}
+.ramka1{
+/* Rectangle 254 */
+
+
+position: absolute;
+width: 330px;
+height: 760px;
+left: 555px;
+top: 1776.55px;
+
+background: #FFFFFF;
+border: 2px solid #DDDDDD;
+box-sizing: border-box;
+border-radius: 10px;
+}
+.korobka1{
+/* Illustration/Standard */
+    
+    
+position: absolute;
+width: 144.9px;
+height: 165.37px;
+left: 647.55px;
+top: 1856.18px;
+} 
+.StandardPlan{
+/* Standard Plan */
+
+
+position: absolute;
+width: 123px;
+height: 30px;
+left: 658.5px;
+top: 2051.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+
+text-align: center;
+
+color: #0B132A;
+}
+.check4{
+/* jam:check */
+
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 624.91px;
+top: 2114.55px;
+}
+.Unlimited{
+/* Unlimited Bandwitch */
+
+
+position: absolute;
+height: 30px;
+left: 669.27px;
+top: 2111.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #4F5665;
+}
+.check5{
+/* jam:check */
+    
+    
+position: absolute;
+width: 24px;
+height: 24px;
+left: 624.91px;
+top: 2154.55px;
+}
+.Encrypted{
+/* Encrypted Connection */
+
+
+position: absolute;
+height: 30px;
+left: 669.27px;
+top: 2151.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #4F5665;
+}
+.check6{
+/* jam:check */
+        
+        
+position: absolute;
+width: 24px;
+height: 24px;
+left: 624.91px;
+top: 2194.55px;
+}
+.YesTraffic{
+/* Yes Traffic Logs */
+
+
+position: absolute;
+height: 30px;
+left: 669.27px;
+top: 2191.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #4F5665;
+}
+.check7{
+/* jam:check */
+            
+            
+position: absolute;
+width: 24px;
+height: 24px;
+left: 624.91px;
+top: 2234.55px;
+}
+.WorksonAll{
+/* Works on All Devices */
+
+
+position: absolute;
+height: 30px;
+left: 669.27px;
+top: 2231.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #4F5665;
+}
+.check8{
+/* jam:check */
+                
+                
+position: absolute;
+width: 24px;
+height: 24px;
+left: 624.91px;
+top: 2274.55px;
+}
+.ConnectAnyware{
+/* Connect Anyware */
+
+
+position: absolute;
+width: 116px;
+height: 30px;
+left: 669.27px;
+top: 2271.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #4F5665;
+}
+.money{
+/* $9 / mo */
+
+
+position: absolute;
+height: 30px;
+left: 674px;
+top: 2391.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 30px;
+/* identical to box height, or 120% */
+
+text-align: center;
+
+color: #0B132A;
+}
+.Button4{
+/* Rectangle 273 */
+    
+background-color: white;
+position: absolute;
+width: 177.88px;
+height: 45px;
+left: 631.06px;
+top: 2441.55px;
+
+border: 2px solid #F53838;
+box-sizing: border-box;
+border-radius: 50px;
+font-family: Rubik;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+    
+    
+color: #F53838;
+}
+.Button4:hover{
+background-color:red;
+color:white;
+}
+.ramka2{
+/* Rectangle 255 */
+
+
+position: absolute;
+width: 330px;
+height: 760px;
+left: 935px;
+top: 1776.55px;
+
+background: #FFFFFF;
+border: 2px solid #F53838;
+box-sizing: border-box;
+border-radius: 10px;
+}
+.korobka2{
+/* Illustration/Premium */
+
+
+position: absolute;
+width: 144.9px;
+height: 165.37px;
+left: 1027.55px;
+top: 1856.18px;
+}
+.PremiumPlan{
+/* Premium Plan */
+
+
+position: absolute;
+width: 121px;
+height: 30px;
+left: 1039.5px;
+top: 2051.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+
+text-align: center;
+
+color: #0B132A;
+}
+.check9{
+/* jam:check */
+
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1004.91px;
+top: 2114.55px;
+}
+.UnlimitedBandwitch2{
+/* Unlimited Bandwitch */
+
+
+position: absolute;
+height: 30px;
+left: 1049.27px;
+top: 2111.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #4F5665;
+}
+.check10{
+/* jam:check */
+    
+    
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1004.91px;
+top: 2154.55px;
+}
+.EncryptedConnection1{
+/* Encrypted Connection */
+
+
+position: absolute;
+height: 30px;
+left: 1049.27px;
+top: 2151.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #4F5665;
+}
+.check11{
+/* jam:check */
+        
+        
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1004.91px;
+top: 2194.55px;
+}
+.YesTraffic1{
+/* Yes Traffic Logs */
+
+
+position: absolute;
+height: 30px;
+left: 1049.27px;
+top: 2191.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #4F5665;
+}
+.check12{
+/* jam:check */
+            
+            
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1004.91px;
+top: 2234.55px;
+}
+.Workson1{
+/* Works on All Devices */
+
+
+position: absolute;
+height: 30px;
+left: 1049.27px;
+top: 2231.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #4F5665;
+}
+.check13{
+/* jam:check */
+                
+                
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1004.91px;
+top: 2274.55px;
+}
+.Connect1{
+/* Connect Anyware */
+
+
+position: absolute;
+width: 116px;
+height: 30px;
+left: 1049.27px;
+top: 2271.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #4F5665;
+}
+.check14{
+/* jam:check */
+                    
+                    
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1004.91px;
+top: 2314.55px;
+}
+.GetNewFeatures{
+/* Get New Features */
+
+
+position: absolute;
+width: 116px;
+height: 30px;
+left: 1049.27px;
+top: 2311.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #4F5665;
+}
+.money1{
+/* $12 / mo */
+
+
+position: absolute;
+height: 30px;
+left: 1048px;
+top: 2391.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 30px;
+/* identical to box height, or 120% */
+
+text-align: center;
+
+color: #0B132A;
+}
+.Button5{
+/* Rectangle 273 */
+
+
+position: absolute;
+width: 177.88px;
+height: 45px;
+left: 1011.06px;
+top: 2441.55px;
+
+background: #F53838;
+border-radius: 50px;
+font-family: Rubik;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 25px;
+/* identical to box height, or 156% */
+    
+color: #FFFFFF;
+}
+.Button5:hover{
+background-color:white;
+color: red;
+}
+.HugeGlobal{
+/* Huge Global Network of Fast VPN */
+
+
+position: absolute;
+width: 383.41px;
+height: 100px;
+left: 528.3px;
+top: 2686.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 50px;
+/* or 143% */
+
+text-align: center;
+
+color: #0B132A;
+}
+.SeeLaslesVPN{
+/* See LaslesVPN everywhere to make it easier for you when you move locations. */
+
+
+position: absolute;
+width: 555px;
+height: 60px;
+left: 442.5px;
+top: 2806.55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+text-align: center;
+
+color: #4F5665;
+}
+.Huge{
+/* Huge Global */
+
+
+position: absolute;
+width: 1060px;
+height: 537.77px;
+left: 190px;
+top: 3022.36px;
+}
+.company{
+/* Sponsored */
+
+
+position: absolute;
+width: 1135.64px;
+height: 208.32px;
+left: 145px;
+top: 3595.93px;
+}
+.Trusted{
+/* Trusted by Thousands of Happy Customer */
+
+
+position: absolute;
+width: 447.81px;
+height: 100px;
+left: 496.1px;
+top: 3854.25px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 50px;
+/* or 143% */
+
+text-align: center;
+
+color: #0B132A;
+}
+.Theseare{
+/* These are the stories of our customers who have joined us with great pleasure when using this crazy feature. */
+
+
+position: absolute;
+width: 555px;
+height: 60px;
+left: 442.5px;
+top: 3974.25px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+text-align: center;
+
+color: #4F5665;
+}
+.ramka3{
+/* Rectangle 265 */
+
+
+position: absolute;
+width: 400px;
+height: 230px;
+left: 150px;
+top: 4094.25px;
+
+background: #FFFFFF;
+border: 2px solid #F53838;
+box-sizing: border-box;
+border-radius: 10px;
+}
+.foto{
+/* Ellipse 175 */
+
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 180px;
+top: 4124.25px;
+
+background: url(.png);
+}
+.Robert{
+/* Viezh Robert */
+
+
+position: absolute;
+width: 112px;
+height: 18px;
+left: 250px;
+top: 4130.75px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #0B132A;
+}
+.Poland{
+/* Warsaw, Poland */
+
+
+position: absolute;
+height: 14px;
+left: 251px;
+top: 4153.75px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* or 214% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #4F5665;
+}
+.text1{
+/* “Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best”. */
+
+
+position: absolute;
+width: 340px;
+height: 100px;
+left: 180px;
+top: 4194.25px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+display: flex;
+align-items: center;
+
+color: #0B132A;
+}
+.cufra3{
+/* 4.5 */
+
+
+position: absolute;
+width: 24px;
+height: 16px;
+left: 470px;
+top: 4141.6px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+display: flex;
+align-items: center;
+
+color: #0B132A;
+}
+.zvezda{
+/* ant-design:star-filled */
+
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 504px;
+top: 4140.9px;
+}
+.ramka4{
+/* Rectangle 267 */
+
+
+position: absolute;
+width: 400px;
+height: 230px;
+left: 600px;
+top: 4094.25px;
+
+border: 2px solid #DDDDDD;
+box-sizing: border-box;
+border-radius: 10px;
+}
+.foto1{
+/* Ellipse 175 */
+
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 630px;
+top: 4124.25px;
+
+background: url(.png);
+}
+.Yessica{
+/* Yessica Christy */
+
+
+position: absolute;
+width: 142.02px;
+height: 18px;
+left: 700px;
+top: 4130.75px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+
+display: flex;
+align-items: center;
+
+color: #0B132A;
+}
+.China{
+/* Shanxi, China */
+
+
+position: absolute;
+width: 109.36px;
+height: 14px;
+left: 701px;
+top: 4153.75px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* or 214% */
+
+display: flex;
+align-items: center;
+
+color: #4F5665;
+}
+.text2{
+/* “I like it because I like to travel far and still can connect with high speed.”. */
+
+
+position: absolute;
+width: 340px;
+height: 100px;
+left: 630px;
+top: 4182.25px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+
+color: #0B132A;
+}
+.cufra4{
+/* 4.5 */
+
+
+position: absolute;
+width: 24px;
+height: 16px;
+left: 920px;
+top: 4141.6px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+display: flex;
+align-items: center;
+
+color: #0B132A;
+}
+.zvezda1{
+/* ant-design:star-filled */
+
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 954px;
+top: 4140.9px;
+}
+.ramka5{
+/* Rectangle 268 */
+
+
+position: absolute;
+width: 400px;
+height: 230px;
+left: 1050px;
+top: 4094.25px;
+
+border: 2px solid #DDDDDD;
+box-sizing: border-box;
+border-radius: 10px;
+}
+.Kim{
+/* Ellipse 175 */
+
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 1080px;
+top: 4124.25px;
+
+background: url(.png);
+}
+.KimYoung{
+/* Kim Young Jou */
+
+
+position: absolute;
+width: 142.02px;
+height: 18px;
+left: 1150px;
+top: 4130.75px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+
+display: flex;
+align-items: center;
+
+color: #0B132A;
+}
+.Korea{
+/* Seoul, South Korea */
+
+
+position: absolute;
+width: 127.34px;
+height: 14px;
+left: 1151px;
+top: 4153.75px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* or 214% */
+
+display: flex;
+align-items: center;
+
+color: #4F5665;
+}
+.text3{
+/* “This is very unusual for my business that currently requires a virtual private network that has high security.”. */
+
+
+position: absolute;
+width: 340px;
+height: 100px;
+left: 1080px;
+top: 4177.25px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+display: flex;
+align-items: center;
+
+color: #0B132A;
+}
+.cufra5{
+/* 4.5 */
+
+
+position: absolute;
+width: 24px;
+height: 16px;
+left: 1370px;
+top: 4141.6px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+display: flex;
+align-items: center;
+
+color: #0B132A;
+}
+.zvezda2{
+/* ant-design:star-filled */
+
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 1404px;
+top: 4140.9px;
+}
+.tochka{
+/* Rectangle 269 */
+
+
+position: absolute;
+width: 30.14px;
+height: 15px;
+left: 156.95px;
+top: 4406.75px;
+
+background: red;
+}
+.tochka1{
+/* Ellipse 172 */
+
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 210px;
+top: 4406.75px;
+
+background: #DDE0E4;
+}
+.tochka2{
+/* Ellipse 173 */
+
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 240px;
+top: 4406.75px;
+
+background: #DDE0E4;
+}
+.tochka3{
+/* Ellipse 174 */
+
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 270px;
+top: 4406.75px;
+
+background: #DDE0E4;
+}
+.Button6{
+position: absolute;
+width: 250px;
+height: 60px;
+left: 970px;
+top: 4595.78px;
+background: #f53838;
+border-radius: 10px;
+border-color: #f53838;
+    
+font-weight: bold;
+font-size: 16px;
+line-height: 25px;
+color: #ffffff;
+}
+.Button6:hover{
+background-color: white;
+color: red;
+}
+.text4{
+    
+/* Subscribe Now for Get Special Features! */
+
+
+position: absolute;
+width: 371.61px;
+height: 80px;
+left: 220px;
+top: 4567.78px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 45px;
+/* or 129% */
+
+display: flex;
+align-items: center;
+
+color: #0B132A;
+}
+.text5{
+/* Let's subscribe with us and find the fun. */
+
+
+position: absolute;
+width: 410px;
+height: 16px;
+left: 220px;
+top: 4667.78px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+display: flex;
+align-items: center;
+
+color: #4F5665;
+}
+.emblema{
+/* Vector */
+
+
+position: absolute;
+width: 35px;
+height: 36.23px;
+left: 150px;
+top: 4805.78px;
+}
+.lasles{
+/* LaslesVPN */
+
+
+position: absolute;
+width: 104px;
+height: 24px;
+left: 195px;
+top: 4811.89px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #0B132A;
+}
+.text6{
+/* LaslesVPN is a private virtual network that has unique features and has high security. */
+
+
+position: absolute;
+width: 340px;
+height: 61.57px;
+left: 150px;
+top: 4862.01px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+
+color: #4F5665;
+}
+.facebook{
+/* Socmed/Facebook */
+
+
+position: absolute;
+width: 60.6px;
+height: 60.6px;
+left: 150px;
+top: 4953.58px;
+}
+.twitter{
+/* Socmed/Twitter */
+
+
+position: absolute;
+width: 60.6px;
+height: 60.6px;
+left: 203.6px;
+top: 4953.58px;
+}
+.instagram{
+/* Socmed/Instagram */
+
+
+position: absolute;
+width: 60.6px;
+height: 60.6px;
+left: 257.2px;
+top: 4953.58px;
+}
+.LaslesVPN2020{
+/* ©2020LaslesVPN */
+
+
+position: absolute;
+width: 132px;
+height: 30px;
+left: 150px;
+top: 5017.18px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 187% */
+
+text-align: center;
+
+color: #AFB5C0;
+}
+.Product{
+/* Product */
+
+
+position: absolute;
+width: 71px;
+height: 30px;
+left: 720px;
+top: 4808.89px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+
+
+color: #0B132A;
+}
+.Download{
+/* Download */
+
+
+position: absolute;
+width: 74px;
+height: 30px;
+left: 720px;
+top: 4858.89px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 187% */
+
+
+color: #4F5665;
+}
+.Pricing{
+/* Pricing */
+
+
+position: absolute;
+width: 52px;
+height: 30px;
+left: 720px;
+top: 4898.89px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 187% */
+
+
+color: #4F5665;
+}
+.Locations{
+/* Locations */
+
+
+position: absolute;
+width: 73px;
+height: 30px;
+left: 720px;
+top: 4938.89px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 187% */
+
+
+color: #4F5665;
+}
+.Server2{
+/* Server */
+
+
+position: absolute;
+width: 49px;
+height: 30px;
+left: 720px;
+top: 4978.89px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 187% */
+
+
+color: #4F5665;
+}
+.Countries{
+/* Countries */
+
+
+position: absolute;
+width: 73px;
+height: 30px;
+left: 720px;
+top: 5018.89px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 187% */
+
+
+color: #4F5665;
+}
+.Blog{
+/* Blog */
+
+
+position: absolute;
+width: 34px;
+height: 30px;
+left: 720px;
+top: 5058.89px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 187% */
+
+
+color: #4F5665;
+}
+.Engage{
+/* Engage */
+
+
+position: absolute;
+width: 66px;
+height: 30px;
+left: 920px;
+top: 4808.89px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+
+
+color: #0B132A;
+}
+.LaslesVPN11{
+/* LaslesVPN ? */
+
+
+position: absolute;
+width: 91px;
+height: 30px;
+left: 920px;
+top: 4858.89px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 187% */
+
+
+color: #4F5665;
+}
+.FAQ{
+/* FAQ */
+
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 920px;
+top: 4898.89px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 187% */
+
+
+color: #4F5665;
+}
+.Tutorials{
+/* Tutorials */
+
+
+position: absolute;
+width: 64px;
+height: 30px;
+left: 920px;
+top: 4938.89px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 187% */
+
+
+color: #4F5665;
+}
+.AboutUS1{
+/* About Us */
+
+
+position: absolute;
+width: 69px;
+height: 30px;
+left: 920px;
+top: 4978.89px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 187% */
+
+
+color: #4F5665;
+}
+.PrivacyPolicy{
+/* Privacy Policy */
+
+
+position: absolute;
+height: 30px;
+left: 920px;
+top: 5018.89px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 187% */
+
+
+color: #4F5665;
+}
+.TermsofService{
+/* Terms of Service */
+
+
+position: absolute;
+height: 30px;
+left: 920px;
+top: 5058.89px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 187% */
+
+
+color: #4F5665;
+}
+.EarnMoney{
+/* Earn Money */
+
+
+position: absolute;
+width: 102px;
+height: 30px;
+left: 1169px;
+top: 4808.89px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+
+
+color: #0B132A;
+}
+.Affiliate{
+/* Affiliate */
+
+
+position: absolute;
+width: 56px;
+height: 30px;
+left: 1169px;
+top: 4858.89px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 187% */
+
+
+color: #4F5665;
+}
+.BecomePartner{
+/* Become Partner */
+
+
+position: absolute;
+width: 121px;
+height: 30px;
+left: 1169px;
+top: 4898.89px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 187% */
+
+
+color: #4F5665;
+}
